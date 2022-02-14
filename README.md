@@ -12,3 +12,5 @@ https://davonhb.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Davon Brown
+
+### ©️2019 Run Buddy, Inc
